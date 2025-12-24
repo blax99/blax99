@@ -3,4 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blax99/blax99/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/blax99/blax99/output/github-snake.svg" />
 </picture> -->
-![Image](https://github.com/user-attachments/assets/3806a1d6-479a-4885-85d6-b60f8721631f)
+
+![gif](https://i.imgur.com/EF9uIXD.gif)
+
+
